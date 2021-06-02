@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    
+}
+#logo {
+    width:800px;
+    height:563px;
+}
+img {
+    height :350px;
+}
+#myCarousel {
+    background-color: red;
+}
+.cars {
+    display: inline;
+}
+#myCarousel img {
+    height:300px;
+    margin-top: 25px;
+}
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size :20px;
+}
